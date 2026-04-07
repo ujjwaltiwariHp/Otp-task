@@ -8,6 +8,7 @@ dist/
 
 # Documentation
 *.md
+!README.md
 questions/
 
 # Logs
